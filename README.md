@@ -2,7 +2,7 @@
 
 Unity Catalog quick demo to Blue Harvest data domain
 
-Repository with step by step to create a demo for (Databricks Unity Catalog)[https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/]
+Repository with step by step to create a demo for [Databricks Unity Catalog](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/)
 
 📝 Details:
 Dataset is online retail platform that captures customer information, customer orders and customer events. We will create a catalog, then create tables and learn how Unity Catalog allows you to securely discover, access and collaborate on trusted data and AI assets
