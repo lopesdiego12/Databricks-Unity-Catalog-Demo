@@ -1,6 +1,6 @@
 # Databricks-Unity-Catalog-Demo
 
-Unity Catalog quick demo to Blue Harvest data domain
+## Unity Catalog quick demo to Blue Harvest data domain
 
 Repository with step by step to create a demo for [Databricks Unity Catalog](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/)
 
@@ -11,9 +11,11 @@ Dataset is online retail platform that captures customer information, customer o
 
 [Demo Unity Catalog 2](https://youtu.be/RnNtCmbK1o8)
 
-Please follow [Unity Catalog HTML](https://github.com/lopesdiego12/Databricks-Unity-Catalog-Demo/blob/68bf57b0925e73a0d9154681a6ed469b1aa7b558/Unity%20Catalog%20demo%20-%20Blue%20Harvest.ipynb)
+Please follow [Unity Catalog python notebook](https://github.com/lopesdiego12/Databricks-Unity-Catalog-Demo/blob/68bf57b0925e73a0d9154681a6ed469b1aa7b558/Unity%20Catalog%20demo%20-%20Blue%20Harvest.ipynb)
 
-What is Unity Catalog?
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+## What is Unity Catalog?
 
 Unity Catalog is a product offered by Databricks that provides a unified governance solution for data and AI1. It is natively built into the Databricks Lakehouse Platform1. Here are some key features and benefits of Unity Catalog:
 
