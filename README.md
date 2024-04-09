@@ -11,7 +11,7 @@ Dataset is online retail platform that captures customer information, customer o
 
 [Demo Unity Catalog 2](https://youtu.be/RnNtCmbK1o8)
 
-Please follow [Unity Catalog python notebook](https://github.com/lopesdiego12/Databricks-Unity-Catalog-Demo/blob/68bf57b0925e73a0d9154681a6ed469b1aa7b558/Unity%20Catalog%20demo%20-%20Blue%20Harvest.ipynb)
+Please follow [Unity Catalog python notebook](https://github.com/lopesdiego12/Databricks-Unity-Catalog-Demo/blob/4867fda9fe610854a59cc498a3a257327d8efd8c/Scripts/Unity%20Catalog%20demo%20-%20Blue%20Harvest.ipynb)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
