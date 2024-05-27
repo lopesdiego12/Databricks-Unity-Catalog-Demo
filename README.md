@@ -33,9 +33,4 @@ Unity Catalog is a product offered by Databricks that provides a unified governa
 5 - Open Data Sharing: Unity Catalog easily shares data and AI assets across clouds, regions, and platforms with open source Delta Sharing.
 
 
----------------------------------------------------------------------------------------------------------------------------------------------
-## Features in Unity Catalog Databricks
-
-![Demo 1](https://youtu.be/mq2aQbteLmo)
-
-![Demo 2](https://youtu.be/RnNtCmbK1o8)
+--------------------------------------------------------------------------------------------------------------------------------------------
