@@ -1,21 +1,5 @@
 # Databricks-Unity-Catalog-Demo
 
-## Unity Catalog quick demo to Blue Harvest data domain
-
-Repository with step by step to create a demo for [Databricks Unity Catalog](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/)
-
-📝 Details:
-Dataset is online retail platform that captures customer information, customer orders and customer events. We will create a catalog, then create tables and learn how Unity Catalog allows you to securely discover, access and collaborate on trusted data and AI assets
-
-[Demo Unity Catalog 1](https://youtu.be/mq2aQbteLmo)
-
-[Demo Unity Catalog 2](https://youtu.be/RnNtCmbK1o8)
-
-Please follow [Unity Catalog python notebook](https://github.com/lopesdiego12/Databricks-Unity-Catalog-Demo/blob/4867fda9fe610854a59cc498a3a257327d8efd8c/Scripts/Unity%20Catalog%20demo%20-%20Blue%20Harvest.ipynb)
-
-If you want more details and do the full Databricks Workshop exercises you can follow this [pdf](https://github.com/lopesdiego12/Databricks-Unity-Catalog-Demo/blob/b9ecad1365955a38ed28b75af730ce52503c58a9/Docs/Unity%20Catalog%20Workshop.pdf)
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ## What is Unity Catalog?
@@ -34,3 +18,27 @@ Unity Catalog is a product offered by Databricks that provides a unified governa
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+![alt text](https://www.databricks.com/wp-content/uploads/2022/04/db-45-blog-img-1.2.png)
+
+
+Lineage
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mq2aQbteLmo/0.jpg)](https://www.youtube.com/watch?v=mq2aQbteLmo)
+
+
+
+## Unity Catalog quick demo to Blue Harvest data domain
+
+Repository with step by step to create a demo for [Databricks Unity Catalog](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/)
+
+📝 Details:
+Dataset is online retail platform that captures customer information, customer orders and customer events. We will create a catalog, then create tables and learn how Unity Catalog allows you to securely discover, access and collaborate on trusted data and AI assets
+
+
+Please follow [Unity Catalog python notebook](https://github.com/lopesdiego12/Databricks-Unity-Catalog-Demo/blob/4867fda9fe610854a59cc498a3a257327d8efd8c/Scripts/Unity%20Catalog%20demo%20-%20Blue%20Harvest.ipynb)
+
+If you want more details and do the full Databricks Workshop exercises you can follow this [pdf](https://github.com/lopesdiego12/Databricks-Unity-Catalog-Demo/blob/b9ecad1365955a38ed28b75af730ce52503c58a9/Docs/Unity%20Catalog%20Workshop.pdf)
+
+
+
+
