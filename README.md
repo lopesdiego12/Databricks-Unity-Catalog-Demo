@@ -4,7 +4,9 @@
 
 ## What is Unity Catalog?
 
-Unity Catalog is a product offered by Databricks that provides a unified governance solution for data and AI. It is natively built into the Databricks Lakehouse Platform. Here are some key features and benefits of Unity Catalog:
+Unity Catalog is a product offered by Databricks that provides a unified governance solution for data and AI. It is natively built into the Databricks Lakehouse Platform. 
+
+Here are some key features and benefits of Unity Catalog:
 
 1 - Unified Governance: Unity Catalog offers a unified governance layer for data and AI within the Databricks Data Intelligence Platform. It allows organizations to seamlessly govern their structured and unstructured data, machine learning models, notebooks, dashboards, and files on any cloud or platform.
 
