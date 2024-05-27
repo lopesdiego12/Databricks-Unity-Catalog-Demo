@@ -37,6 +37,7 @@ If you want more details and do the full Databricks Workshop exercises you can f
 
 
 Lineage
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mq2aQbteLmo/0.jpg)](https://www.youtube.com/watch?v=mq2aQbteLmo)
+
+[![Lineage](https://img.youtube.com/vi/mq2aQbteLmo/0.jpg)](https://www.youtube.com/watch?v=mq2aQbteLmo)
 
 
