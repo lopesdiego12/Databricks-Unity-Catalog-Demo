@@ -26,11 +26,8 @@ Here are some key features and benefits of Unity Catalog:
 
 ## Unity Catalog quick demo to Blue Harvest data domain
 
-Repository with step by step to create a demo for [Databricks Unity Catalog](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/)
-
 📝 Details:
 Dataset is online retail platform that captures customer information, customer orders and customer events. We will create a catalog, then create tables and learn how Unity Catalog allows you to securely discover, access and collaborate on trusted data and AI assets
-
 
 Please follow [Unity Catalog python notebook](https://github.com/lopesdiego12/Databricks-Unity-Catalog-Demo/blob/4867fda9fe610854a59cc498a3a257327d8efd8c/Scripts/Unity%20Catalog%20demo%20-%20Blue%20Harvest.ipynb)
 
